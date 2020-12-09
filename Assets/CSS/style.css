@@ -1,15 +1,13 @@
 /**
-* Template Name: ComingSoon - v2.1.0
-* Template URL: https://bootstrapmade.com/comingsoon-free-html-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Author: Eric Willoughby
 */
+@font-face {
+   font-family: PartyFont;
+   src: url("../Fonts/bottleParty.ttf");
+}
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "PartyFont", serif;
   color: #fff;
   background: url("../img/bg.jpg") top center no-repeat;
   background-size: cover;
@@ -42,7 +40,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "PartyFont", serif;
 }
 
 #main {
