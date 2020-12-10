@@ -9,7 +9,7 @@
 body {
   font-family: "PartyFont", serif;
   color: #fff;
-  background: url("../img/bg.jpg") top center no-repeat;
+  background: url("../IMG/bg.jpg") top center no-repeat;
   background-size: cover;
   position: relative;
 }
